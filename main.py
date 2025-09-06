@@ -3,6 +3,7 @@ import time
 import sys
 
 #ЫЫЫЫЫЫЫ
+#1234567
 
 class Hero:
     def __init__(self, name):
