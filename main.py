@@ -2,6 +2,8 @@ import random
 import time
 import sys
 
+#ЫЫЫЫЫЫЫ
+
 class Hero:
     def __init__(self, name):
         self.name = name
